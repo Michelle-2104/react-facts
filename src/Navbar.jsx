@@ -7,7 +7,7 @@ function Navbar() {
         <div className="container">
             <img className="nav-icon" src={full} alt='React logo'/>
             <h1 className="first-heading"> React Facts</h1>
-            <h1 className="sub-heading">React Project 1</h1>
+            <h1 className="sub-heading">React Project</h1>
         </div>
         
     )
