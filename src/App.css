@@ -16,6 +16,7 @@ body
   background-repeat: no-repeat;
   background-position: right 75%;
   background-color: grey;
+  height: 100vh;
 }
 
 .nav-icon {
